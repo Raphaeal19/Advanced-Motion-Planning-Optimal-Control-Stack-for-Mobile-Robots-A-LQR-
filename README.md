@@ -1,4 +1,4 @@
-# CSC591-Project: Integrated Navigation and Control for Differential-Drive Robots using A* Path Planning and LQR Control
+# CSC591-Project: Advanced Motion Planning & Optimal Control Stack for Mobile Robots (A* / LQR)
 
 ## Video
 [![Project Video](https://img.youtube.com/vi/aOzeJ2m_uoA/0.jpg)](https://youtu.be/aOzeJ2m_uoA)
